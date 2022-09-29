@@ -1,0 +1,361 @@
+.container {
+    max-width: 1920px;
+    height: 862px;
+    margin: 0 auto;
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(12,76,112,1) 0%, rgba(30,47,64,1) 100%);
+}
+
+.main {
+    margin: 0 auto;
+    max-width: 1920px;
+    height: 862px;
+}
+
+.bort {
+    max-width: 1920px;
+    height: 450px;
+    margin: 0 auto;
+    background: #1E2F40;
+    /*background: rgb(2,0,36);*/
+    /*background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(12,76,112,1) 0%, rgba(30,47,64,1) 100%);*/
+
+}
+
+
+.card {
+    max-width: 432px;
+    height: 862px;
+    background: coral;
+    position: relative;
+    top: -554px;
+    left: 1070px;
+    bottom: 127px;
+    background: rgb(2,0,36);
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(243,115,53,1) 0%, rgba(253,200,48,1) 100%);
+}
+
+
+
+.burger {
+    width: 829px;
+    height: 861px;
+    position: relative;
+
+    right: 220px;
+}
+
+.text__time{
+    position: relative;
+    width: 444px;
+    height: 42px;
+    left: 341px;
+    top: 200px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 38px;
+    /* or 127% */
+    text-transform: uppercase;
+    color: #FBB731;
+}
+
+.text__burger {
+
+    position: relative;
+    width: 580px;
+    height: 272px;
+    left: 340px;
+    top: 120px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 120px;
+    line-height: 140px;
+    /* or 117% */
+    text-transform: uppercase;
+    color: #FAF9F9;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+.text__zakaz {
+    position: relative;
+    width: 524px;
+    height: 60px;
+    left: 341px;
+    top: 60px;
+
+    font-family: 'Lato', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 140%;
+    /* or 27px */
+
+
+    color: #DEDEDE;
+}
+
+.link{
+    background: #FBB731;
+    width: 170px;
+    height: 58px;
+    color: #1E2F40;
+    border-radius: 5%;
+    position: relative;
+    top: -770px;
+    left: 340px;
+}
+
+
+.link2{
+    background: #FBB731;
+    width: 170px;
+    height: 58px;
+    color: #1E2F40;
+    border-radius: 5%;
+    position: relative;
+    top: -585px;
+    left: 1010px;
+}
+
+
+
+
+
+.image__1 {
+    width: 580px;
+    height: 395px;
+    position: relative;
+    left: 360px;
+    top: 191px;
+
+}
+
+
+
+.image__2 {
+    width: 580px;
+    height: 395px;
+    position: relative;
+    left: 960px;
+    top: -209px;
+
+}
+
+.text2_banner2 {
+    position: relative;
+    top: -560px;
+    left: 1008px;
+    color: #FFFFFF;
+    font-size: 44px; /* Размер шрифта */
+    font-weight: bold; /* Жирное начертание */
+    font-family: 'Lato', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.text3_banner2 {
+    position: relative;
+    top: -590px;
+    left: 1010px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* or 160% */
+    color: #FAF9F9;
+
+}
+
+ .link2_2{
+
+    text-decoration: none;
+    color: #1E2F40;
+    position: relative;
+    top: 19px;
+    left: 45px;
+    font-size: 14px; /* Размер шрифта */
+    font-weight: bold; /* Жирное начертание */
+    font-family: 'Lato', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+
+.link2_2:active {
+    color: #1E2F40;
+}
+
+
+.link2_2:hover{
+    font-size: 21px; /* Размер шрифта */
+    line-height: 140%;
+    top: 15px;
+    left: 30px;
+}
+
+.link1_1 {
+
+    text-decoration: none;
+    color: #1E2F40;
+    position: relative;
+    top: 19px;
+    left: 45px;
+    font-size: 14px; /* Размер шрифта */
+    font-weight: bold; /* Жирное начертание */
+    font-family: 'Lato', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+
+.link1_1:active {
+    color: #1E2F40;
+}
+
+
+.link1_1:hover{
+    font-size: 21px; /* Размер шрифта */
+    line-height: 140%;
+    top: 15px;
+    left: 30px;
+}
+
+
+.navbar {
+    /*padding: 10px 20px*/;
+    margin-bottom: 10px;
+}
+
+.navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    padding: 0 20px;
+}
+
+.navbar ul li {
+    margin-right: 10px;
+    padding: 10px;
+
+}
+
+.bort__text1 {
+    position: relative;
+    width: 230px;
+    height: 38px;
+
+
+    left: 563px;
+    top: 30px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 38px;
+    /* identical to box height, or 190% */
+
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+
+.link3 {
+    position: relative;
+    height: 24px;
+    left: 535px;
+    top: 117px;
+    top: calc(50% - 24px/2 - 24.5px);
+    font-family: 'Lato', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+    color: #DEDEDE;
+    text-decoration: none;
+    font-weight: 500;
+    line-height: 0.1;
+}
+
+.link3:hover{
+    color: #FBB731;
+}
+
+.logoburg {
+    position: relative;
+    left: 360px;
+    top: 118px;
+}
+
+.b_t1{
+    position: relative;
+    width: 282px;
+    height: 38px;
+    left: 950px;
+    top: -223px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 38px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.b_t2{
+    position: relative;
+    height: 24px;
+    left: 0%;
+    left: 952px;
+    top: -224px;
+
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 1.9;
+    /* identical to box height, or 160% */
+    color: #DEDEDE;
+}
+
+.b_t3{
+    position: relative;
+    height: 24px;
+    left: 0%;
+    left: 952px;
+    top: -180px;
+
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 1.9;
+    /* identical to box height, or 160% */
+    color: #DEDEDE;
+}
+
+.b_t4 {
+    position: relative;
+    width: 175px;
+    height: 38px;
+    top: -368px;
+    left: 1400px;
+
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 38px;
+    /* identical to box height, or 190% */
+
+    text-transform: uppercase;
+
+    color: #FBB731;
+
+}
+
